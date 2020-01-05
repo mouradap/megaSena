@@ -12,4 +12,4 @@ Based on data available from Caixa's on historical Mega Sena results.
 
 Disclaimer:
 
-You it on your own risk. I provide no guarantee whatsoever that this will ever work.
+Use it on your own risk. I provide no guarantee whatsoever that this will ever work.
